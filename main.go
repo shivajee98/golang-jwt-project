@@ -3,8 +3,9 @@ package main
 import (
 	"os"
 
+	routes "../routes"
+
 	"github.com/gin-gonic/gin"
-	routes "github.com/shivajee98/golang-jwt-project.git/routes"
 )
 
 func main() {
